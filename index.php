@@ -258,7 +258,7 @@
     <footer>
         <section>
         <div class="col-xs-12 col-lg-8 col-xl-6 col-xxl-5" id="derecho">
-         <h4>Todos los derechos reservados</h4>
+         <h4>WEB DEVELOPMENT</h4>
         </div>
         <div id="autor">
             <p>Guillermo Martinez</p>
