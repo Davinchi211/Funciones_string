@@ -1,0 +1,114 @@
+h1{
+    text-align: center;
+}
+body,html{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+
+.card-child-1{
+    background-color: #e2e3d9;
+    justify-content: space-between;
+    align-items: center;
+    display: flex;
+    gap: 20px;
+    text-align-last: center;
+    width: 77%;
+    flex-wrap: nowrap;
+    border-bottom: solid 0.5px #f3f4e5;
+}
+.flex-container{
+    padding: 20px 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: #ffffff;
+    text-align: center;
+    width: 100%;
+    flex-wrap: wrap;
+    border-radius: 5px;
+    font-family: 'Signika Negative', sans-serif;
+}
+.txt{
+    border-radius: 5px;
+    width: 50%;
+    background-color: #a1c1be;
+    margin: 0.5em 1em 0.5em 0;
+}
+.php{
+    width: 60%;
+    margin: center;
+    padding: 10px;
+}
+hr{
+    color: #ffffff;
+    
+}
+ul{
+    width: 20%;}
+.flex-container-1{
+    text-align: center;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: center;
+    display: flex;
+    gap: 20px;
+    flex-direction: row;
+    width: 50%;
+    margin: 0 auto;
+}
+.descrip{
+    padding: 20px;
+    background-color: #a1c1be;
+    width: 15%;
+    border-radius: 5px;
+}
+.ejemplo{
+    background-color: #e2e3d9;
+    margin: 0.5em 1em 0.5em 0;
+    padding: 10px;
+    border-radius: 5px;
+}
+h2{
+    margin-top: 5%;
+    font-family: 'Exo 2', sans-serif;
+    font-size: 250%;    
+}
+header{
+    height: 100px;
+    background-color: #59554e;
+    display: flex;
+    position: relative;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+h1{
+    color: white;
+    font-family: 'Exo 2', sans-serif;
+    font-size: 250%;
+}
+footer{
+    display: flex;
+    align-items: center;
+    justify-content: start;
+    height: 200px;
+    background-color: #113805;
+    padding-left: 10%;
+    font-family: 'Chakra Petch', sans-serif;
+    font-family: 'Signika Negative', sans-serif;
+}
+#derecho{
+    width: 500px;
+    height: 30px;
+    color: white;
+    font-size: 30px;
+}
+#autor{
+    color: white;
+    font-size: 15px;
+}
